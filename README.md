@@ -4,7 +4,7 @@
 A machine learning–powered Flask web application that predicts whether a person is at risk of heart disease based on medical parameters.
 This project uses a trained ML model and provides an interactive web interface for users to input their details and get predictions instantly.
 
-🌐 **Live Demo**:  https://heart-disease-predictor-1-7nh8.onrender.com
+🌐 **Live Demo**:  https://heart-disease-predictor-2-y07l.onrender.com
 
 
 ## 📋 Features
